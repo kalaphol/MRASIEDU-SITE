@@ -13,23 +13,23 @@ const PRODUCTS = {
       {name:"White",hex:"#024b17ff",image:"images/shirt1.jpeg"}
     ]
    },
-//   "shirt2":{
-//     id:"shirt2",
-//     title:"Women's Grace Tee",
-//     desc:"Soft-fit tee featuring a scripture-inspired design.",
-//     price:"$20",
-//     image:"",
-//     category:"Shirts",
-//     colors:[
-//       {name:"Pink",hex:"#FADADD",image:"images/shirt2_pink.svg"},
-//       {name:"White",hex:"#ffffff",image:"images/shirt2_white.svg"}
-//     ]
-//  },
+  "shirt2":{
+    id:"shirt2",
+    title:"Holiness",
+    desc:"Soft-fit tee featuring a scripture-inspired design.",
+    price:"$20",
+    image:"images/Shirt2white.jpeg",
+    category:"Shirts",
+    colors:[
+      {name:"white",hex:"#ffffffff",image:"images/Shirt2white.jpeg"},
+      // {name:"White",hex:"#ffffff",image:"images/shirt2_white.svg"}
+    ]
+ },
   "hoodie1":{
     id:"hoodie1",
     title:"Holiness",
     desc:"Warm hoodie with a large cross on the chest.",
-    price:"$40",
+    price:"$25",
     image:"images/hoodiewhite.jpeg",
     category:"Hoodies",
     colors:[
